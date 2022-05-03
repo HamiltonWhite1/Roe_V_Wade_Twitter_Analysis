@@ -1,0 +1,4 @@
+*.ipynb_checkpoints
+Cumulative_Tweets.csv
+*.DS_Store
+*JSONs
